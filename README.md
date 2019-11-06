@@ -2,12 +2,14 @@
 
 # Contribution Requirements
 Please make the icon a png that is 1000x1000. the icon should be as close to the normal icon as possible unless the icon is bad. If it's something like Youtube or Reddit where its a small glyph please fix it to actually be good where the background isnt white.
+
 after you do that here's how you contribute
 
 1. go to https://offcornerdev.com/bundleid.html
 2. copy the bundleid of your app
 3. make the icon name com.bundle.id.png
 4. make a pull request
+
 sorry that half the original icons dont fit this specification I blame edog813
 
 # Build Instructions
