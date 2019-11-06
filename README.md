@@ -14,9 +14,11 @@ sorry that half the original icons dont fit this specification I blame edog813
 
 # Build Instructions
 First you will need a computer/virtual machine with dpkg installed. Any computer that has dpkg-deb will work and if you use a distro that isn't debian/ubuntu-like you can just install dpkg with your package manager or build it from source.
-`cd /tmp`
-`git clone https://github.com/edog813/ShitOS`
+
+`cd /tmp`\
+`git clone https://github.com/edog813/ShitOS`\
 `dpkg-deb -b ShitOS/ $HOME/shitos_iphoneos-arm_master.deb`
+
 this will put a deb in your home folder
 
 # Credits
