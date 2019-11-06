@@ -1,6 +1,6 @@
 Package: com.edog813.shitos
 Name: ShitOS
-Depends: mobilesubstrate, com.spark.snowboard
+Depends: mobilesubstrate, com.spark.snowboard |  com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Description: The best ios theme ever made
 Maintainer: edog813#9023/Human#1895
