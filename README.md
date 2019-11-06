@@ -22,4 +22,5 @@ this will put a deb in your home folder
 
 # Credits
 icon design, idea -- Edog813#9023
+
 git repo, instructions, deb -- Human#1895
