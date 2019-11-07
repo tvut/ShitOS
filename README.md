@@ -3,6 +3,9 @@
 ###### Screenshot by fahrenheight#0001
 #### This project was made for the iOS Jailbreaking server (https://discord.gg/3Xqqn4a) but is distributed under the MIT Public License so you can change the contents or make your own theme from this as a base.
 
+<img src="https://cdn.discordapp.com/attachments/606095551192236045/641821042695864358/bestwallpaper.png" alt="preview" width="200" height="434">
+Cool background for this 
+
 # Installing
 1. download a deb at https://github.com/edog813/shitos/releases
 2. add the repo https://repo.twickd.com
@@ -17,6 +20,8 @@ after you do that here's how you contribute
 4. make a pull request
 
 sorry that half the original icons dont fit this specification I blame edog813
+
+fake news lol
 
 # Build Instructions
 First you will need a computer/virtual machine with dpkg installed. Any computer that has dpkg-deb will work and if you use a distro that isn't debian/ubuntu-like you can just install dpkg with your package manager or build it from source.
