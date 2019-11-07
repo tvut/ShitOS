@@ -4,8 +4,8 @@
 #### This project was made for the iOS Jailbreaking server (https://discord.gg/3Xqqn4a) but is distributed under the MIT Public License so you can change the contents or make your own theme from this as a base.
 
 # Installing
-A. download a deb at https://github.com/edog813/shitos/releases\
-B. add the repo https://repo.twickd.com
+1. download a deb at https://github.com/edog813/shitos/releases
+2. add the repo https://repo.twickd.com
 # Contribution Requirements
 Please make the icon a png that is 1000x1000. the icon should be as close to the normal icon as possible unless the icon is bad. If it's something like Youtube or Reddit where its a small glyph please fix it to actually be good where the background isnt white.
 
