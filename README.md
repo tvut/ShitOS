@@ -33,6 +33,6 @@ First you will need a computer/virtual machine with dpkg installed. Any computer
 this will put a deb in your home folder
 
 # Credits
-icon design, idea -- Edog813#9023\
+icon design, idea -- edog813#9023\
 git repo, instructions, deb -- Human#1895\
 Testing - Fahrenheight#0001
