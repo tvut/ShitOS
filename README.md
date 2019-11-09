@@ -7,8 +7,9 @@
 Cool background for this 
 
 # Installing
-1. download a deb at https://github.com/edog813/shitos/releases
-2. add the repo https://repo.twickd.com
+1. add the repo https://repo.toilet.cat
+2. download a deb at https://github.com/edog813/shitos/releases
+3. add the repo https://repo.twickd.com
 # Contribution Requirements
 Please make the icon a png that is 1000x1000. the icon should be as close to the normal icon as possible unless the icon is bad. If it's something like Youtube or Reddit where its a small glyph please fix it to actually be good where the background isnt white.
 
