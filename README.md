@@ -1,15 +1,12 @@
 <img src="https://cdn.discordapp.com/attachments/606095551192236045/641789222457573378/IMG_C64D2A0ECC34-1.jpeg" alt="preview" width="200" height="360">
-
-###### Screenshot by fahrenheight#0001
-#### This project was made for the iOS Jailbreaking server (https://discord.gg/3Xqqn4a) but is distributed under the MIT Public License so you can change the contents or make your own theme from this as a base.
+#### Distributed under the MIT Public License so you can change the contents or make your own theme from this as a base.
 
 <img src="https://cdn.discordapp.com/attachments/606095551192236045/641821042695864358/bestwallpaper.png" alt="preview" width="200" height="434">
-Cool background for this 
+Cool background to go with it 
 
 # Installing
-1. add the repo https://repo.toilet.cat
 2. download a deb at https://github.com/edog813/shitos/releases
-3. ~~add the repo https://repo.twickd.com~~ twickd is gay though you should only use TOILET CAT REPO BEST REPO
+
 # Contribution Requirements
 Please make the icon a png that is 1000x1000. the icon should be as close to the normal icon as possible unless the icon is bad. If it's something like Youtube or Reddit where its a small glyph please fix it to actually be good where the background isnt white.
 
@@ -36,4 +33,4 @@ this will put a deb in your home folder
 # Credits
 icon design, idea -- edog813#9023\
 git repo, instructions, deb -- Human#1895\
-Testing - Fahrenheight#0001
+Testing -- various people
